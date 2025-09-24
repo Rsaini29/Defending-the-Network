@@ -5,7 +5,7 @@ The first link is our deliverable, providing a summary of our network & it's vul
 
 <br>
 
-Report of network vulnerabilities: 
+Report of network vulnerabilities: <br>
 https://docs.google.com/presentation/d/1AuzaDJBnSuwmGD4OYEkmlBcTDA5xfQ9KcFgvPYJUb3A/edit?usp=drive_link
 
 Capstone engagement- assessment & analysis:   
