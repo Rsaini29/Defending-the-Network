@@ -9,3 +9,6 @@ https://docs.google.com/presentation/d/1AuzaDJBnSuwmGD4OYEkmlBcTDA5xfQ9KcFgvPYJU
 
 Capstone engagement- assessment & analysis:   
 https://docs.google.com/presentation/d/1fEw3fcOJpbduZxy3hzgmKO4CJMM6OkI2VKJTAZmNSnw/edit?usp=drive_link
+
+
+![Network Topology](project-2-defending-the-network/Network_Topology.png)
