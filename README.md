@@ -3,6 +3,7 @@ For this project, our team performed the role of security engineers for a fictio
 
 The first link is our deliverable, providing a summary of our network & it's vulnerabilities while the second is a report presenting our log data along with suggested mitigation proposals for each exploit performed. 
 
+
 Report of network vulnerabilities: 
 https://docs.google.com/presentation/d/1AuzaDJBnSuwmGD4OYEkmlBcTDA5xfQ9KcFgvPYJUb3A/edit?usp=drive_link
 
